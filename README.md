@@ -216,4 +216,4 @@ TwoNav GPS is offered as a complete free version, providing all features and upd
 Get ready to explore the great outdoors with TwoNav GPS! Download now for your complete planning solution.
 
 ---
-**Last updated:** 2026-09-17 16:22:57 UTC
+**Last updated:** 2026-09-17 20:01:54 UTC
